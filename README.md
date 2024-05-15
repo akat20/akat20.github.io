@@ -1,4 +1,6 @@
-## Сайт визитка на HTML и CSS
+## CV
+
+Сайт визитка на HTML и CSS
 
 <!--
 **akat20/akat20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
